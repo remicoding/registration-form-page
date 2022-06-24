@@ -8,4 +8,6 @@ The `css/styles.css` file contains CSS tools for styling the page.
 
 The page can be viewed here: [Registration Form](https://remicoding.github.io/registration-form-page/)
 
-For your convenience, here is a screenshot of the page: ![Registration Form Screenshot](img/registration-form-img.png)
+For your convenience, here is a screenshot of the page:
+
+![Registration Form Screenshot](img/registration-form-img.png)
